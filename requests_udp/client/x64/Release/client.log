@@ -1,0 +1,8 @@
+﻿  client.cpp
+E:\projects\Web_technologies_v2.0\requests_udp\client\client.cpp(43,51): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  79 of 97 functions (81.4%) were compiled, the rest were copied from previous compilation.
+    18 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  client.vcxproj -> E:\projects\Web_technologies_v2.0\requests_udp\x64\Release\client.exe

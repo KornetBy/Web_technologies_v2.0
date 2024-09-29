@@ -1,0 +1,7 @@
+﻿  server.cpp
+E:\projects\Web_technologies_v2.0\requests_udp\server\server.cpp(71,53): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 90 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  server.vcxproj -> E:\projects\Web_technologies_v2.0\requests_udp\x64\Release\server.exe

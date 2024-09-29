@@ -1,0 +1,8 @@
+﻿  server.cpp
+E:\projects\Web_technologies_v2.0\requests\server\server.cpp(102,61): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  1 of 82 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  server.vcxproj -> E:\projects\Web_technologies_v2.0\requests\x64\Release\server.exe

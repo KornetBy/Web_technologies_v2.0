@@ -1,0 +1,3 @@
+﻿  client.cpp
+E:\projects\Web_technologies_v2.0\requests_udp\client\client.cpp(71,53): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  client.vcxproj -> E:\projects\Web_technologies_v2.0\requests_udp\x64\Debug\client.exe
